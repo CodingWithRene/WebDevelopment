@@ -1,1 +1,1 @@
-This repository contains the source code for the projects completed in the "Web Development Basics" playlist.
+This repository contains the source code for the projects in the "Web Development Basics" playlist.

@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+
+h2{
+    font-family: cursive;
+}
+
+p{
+    font-size: 20px;
+}
+
+#main-header{
+    font-family: sans-serif;
+}
+
+.purple{
+    color: purple;
+}
+
+p.purple{
+    font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,15 @@
+.name{
+    color: darkgreen;
+}
+
+.rgb{
+    color: rgb(100, 0, 100);
+}
+
+.rgba{
+    color:rgba(68, 133, 21, 0.762);
+}
+
+.hex{
+    color: #15f415;
+}

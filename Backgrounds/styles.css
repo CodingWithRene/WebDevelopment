@@ -1,0 +1,6 @@
+body{
+    background-image: url(/Backgrounds/Pic.png);
+    background-repeat: no-repeat;
+    background-position: 100px 100px;
+    background-attachment: fixed;
+}

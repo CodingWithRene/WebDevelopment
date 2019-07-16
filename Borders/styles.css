@@ -1,0 +1,31 @@
+h1{
+/*
+border-style: solid;
+border-style: dotted;
+border-style: dashed;
+border-style: double;
+border-style: groove;
+border-style: ridge;
+border-style: inset;
+border-style: outset;
+*/   
+
+/* 
+border-style: solid;
+border-color:grey;
+border-width: 20px;
+*/
+
+/* 
+border-left-color: brown;
+border-left-style: inset;
+border-left-width: 30px;
+*/
+border: 10px black solid;
+
+/* 
+border-right: solid red 5px;
+border-left: green dotted 3px;
+*/
+    
+}

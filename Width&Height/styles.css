@@ -1,0 +1,11 @@
+h1{
+    border: solid black 10px;
+    width: 30%;
+    max-width: 200px;
+}
+
+h2{
+    border: solid black 10px;
+    width: 50px;
+    height: 200px;
+}

@@ -1,0 +1,23 @@
+p{
+    text-align: right;
+    /* 
+    text-decoration: underline;
+    text-decoration: line-through;
+    text-decoration: overline;
+    */
+
+    /* 
+    text-transform: capitalize;
+    text-transform: lowercase;
+    text-transform: uppercase;
+    */
+
+    text-indent: 150px;
+
+    line-height: 50px;
+
+    text-shadow:blue -1px -1px;
+    
+
+    
+}

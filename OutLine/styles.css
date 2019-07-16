@@ -1,0 +1,35 @@
+*{
+    padding: 15px;
+    margin: 20px;
+    
+}
+
+h1{
+
+    /* 
+    outline-style: solid;
+    outline-style: dashed;
+    outline-style: double;
+    outline-style: dotted;
+    outline-style: ridge;
+    outline-style: outset;
+    outline-style: inset;
+    outline-style: groove;
+    outline-style: none;
+    outline-style: hidden;
+     */
+    outline-style: double;
+
+    outline-color: red;
+    outline-width: 10px;
+
+    outline-offset: 10px;
+     
+    border: double black 10px;
+
+
+}
+
+h2{
+    border: solid black 10px;
+}
